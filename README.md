@@ -45,5 +45,3 @@ http://localhost:3000
 ---
 
 ### If you encounter any difficulty running it, feel free to contact on my email :smile:
-
-### If you liked my work do give us a star :star::star::star: It Encourages us to do more :wink: :dizzy:
