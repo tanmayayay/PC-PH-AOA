@@ -1,13 +1,13 @@
-# The Sanjivani NGO - ReactJS & SpringBoot Project
+# The PC/PH AOA - ReactJS & SpringBoot Project
 
-This project is a web application for The Sanjivani NGO. It's built using **ReactJS**, **Axios**, and **Bootstrap**.
+This project is a web application for the Association of Apartment Owners of Pavillion
+Court and Pavilion Height Apartments. It's built using **ReactJS**, **Axios**, and **Bootstrap**.
 
 ## Features
 
 - **Donation Form**: A user-friendly form for making donations.
 - **Admin Login**: Secure login for admins to view user details.
-- **Carousel**: A beautiful carousel for showcasing events and initiatives by the NGO.
-- **Contact Form**: A form for users to get in touch with the NGO.
+- **Contact Form**: A form for users to get in touch with the Org.
 - **Navbar and Footer**: A beautiful and intuitive navigation bar and footer for easy navigation.
 
 ## Tech Stack
@@ -21,12 +21,12 @@ This project is a web application for The Sanjivani NGO. It's built using **Reac
 
 Clone the repository:
 ```bash
-git clone https://github.com/bhaveshpatil07/The-Sanjivani-NGO-ReactJs
+git clone https://github.com/tanmayayay/PC-PH-AOA.git
 ```
 ##### Move to the desired folder:
 
 ```bash
-cd sanjivani
+cd PCPHAOA-REACTJS
 ```
 
 ##### Install the dependencies:
